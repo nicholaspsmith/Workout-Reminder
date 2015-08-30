@@ -1,6 +1,6 @@
 Workout Reminder
 =====
-A meteor app that will test out the capabilities Meteor create push notifications to create alerts to remind the user to eat, or that it is time to workout
+A meteor app that will test out the capabilities of Meteor to create push notifications on iOS to remind the user to eat (every three hours) and workout.
 
 
 
